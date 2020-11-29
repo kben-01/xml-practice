@@ -1,0 +1,26 @@
+<movies title="Movie Listing">
+    <movie>
+        <title>Tenet</title>
+        <director>Chritopher Nolan</director>
+        <actors>John David Washington, Robert Pattinson, Elizabeth Debicki</actors>
+        <synopsis>Armed with only one word, Tenet, and fighting for the survival of the entire world, a Protagonist journeys through a twilight world of international espionage on a mission that will unfold in something beyond real time.</synopsis>
+    </movie>
+    <movie>
+        <title>The Devil All the Time</title>
+        <director>Antonio Campos</director>
+        <actors>Donald Ray Pollock, Tom Holland, Robert Pattinson, Jason Clarke</actors>
+        <synopsis>Sinister characters converge around a young man devoted to protecting those he loves in a postwar backwoods town teeming with corruption and brutality.</synopsis>
+    </movie>
+    <movie>
+        <title>Jojo Rabbit</title>
+        <director>Taika Waititi</director>
+        <actors>Roman Griffin Davis, Thomasin McKenzie, Scarlett Johansson</actors>
+        <synopsis>A young boy in Hitler's army finds out his mother is hiding a Jewish girl in their home.</synopsis>
+    </movie>
+    <movie>
+        <title>Parasite</title>
+        <director>Bong Joon Ho</director>
+        <actors>Song Kang-Ho, Sun-kyun Lee, Yeo-jeong Jo</actors>
+        <synopsis>Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.</synopsis>
+    </movie>
+</movies>
